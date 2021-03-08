@@ -1,0 +1,180 @@
+body{
+    font: 12px/1.5 tahoma,'\5FAE\8F6F\96C5\9ED1',sans-serif;
+}
+body>div{
+    background-color: #efe8e8;
+    width: 1440px;
+    margin: 0 auto;
+    position: relative;
+}
+#head_1{
+    width: 1440px;
+    height: 78px;
+    overflow: visible;
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 0 auto;
+}
+#head_1>div{
+    width: 1440px;
+    height: 78px;
+    margin: 0 auto;
+    z-index: 10;
+}
+#logo{
+    float: left;
+    width: 167px;
+    height: 60px;
+    margin-top: 10px;
+    margin-right: 50px;
+    margin-left: 100px;
+}
+ul{
+    float: left;
+    list-style-type: none;
+    padding: 0;
+    text-align: center;
+}
+#head_1>div>ul>li{
+    float: left;
+    margin-right: 50px;
+}
+#i1{
+    float: left;
+    margin-left: 70px;
+    margin-top: 10px;
+    display: inline-block;
+    width: 21px;
+    height: 24px;
+    line-height: 24px;
+    background-image: url("https://game.gtimg.cn/images/lol/v3/topfoot-spr.png");
+    background-position: -381px -39px;
+}
+#i2{
+    margin-left: -20px;
+    margin-top: 10px;
+    float: left;
+    display: inline-block;
+    width: 16px;
+    height: 24px;
+    line-height: 24px;
+    background-image: url("https://game.gtimg.cn/images/lol/v3/topfoot-spr.png");
+    background-position:-303px -84px;
+}
+#i3{
+    margin-left: -20px;
+    float: left;
+    display: inline-block;
+    width: 55px;
+    height: 55px;
+    line-height: 24px;
+    background-image: url("https://game.gtimg.cn/images/lol/v3/topfoot-spr.png");
+    background-position:-212px -115px;
+}
+#tou{
+    margin-top: 9px;
+    margin-left: 2px;
+    margin-right: 0;
+    width: 35px;
+    height: 35px;
+    border: 1px;
+    border-radius: 20px;
+}
+#head_ul>b{
+    display: inline-block;
+    margin-top: 10px;
+    font-size: 18px;
+}
+.CN{
+    display: block;
+    font-size: 18px;
+    text-align: center;
+    color: #ffffff;
+    margin-top: 10px;
+    line-height: 18px;
+}
+.EN{
+    display: block;
+    font-size: 11px;
+    color: #aeaeae;
+    margin-top: -15px;
+    text-align: center;
+}
+#top{
+    width: 1440px;
+    height: 360px;
+    margin: 0 auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#bottom{
+    width: 100%;
+    padding: 45px 0;
+    background-color: #e3e2e2;
+    color: #9f9378;
+    font-size: 12px;
+    line-height: 24px;
+}
+#foot{
+    width: 1300px;
+    height: 175px;
+    padding: 15px 20px;
+    margin: 0;
+    font-size: 12px;
+    overflow: hidden;
+}
+#foot_l{
+    float: left;
+    width: auto;
+    height: 100px;
+    text-align: center;
+    position: absolute;
+    margin: 50px 100px;
+    overflow: hidden;
+}
+#foot_l_i1{
+    float: left;
+    display: inline-block;
+    width: 193px;
+    height: 40px;
+    line-height: 24px;
+    background-image: url("https://game.gtimg.cn/images/lol/v3/topfoot-spr.png");
+    background-position:-212px 2px;
+}
+#foot_l_i2{
+    float: left;
+    display: inline-block;
+    width: 90px;
+    height: 35px;
+    background-image: url("https://game.gtimg.cn/images/lol/v3/topfoot-spr.png");
+    background-position:-211px -80px;
+    margin-left: 30px;
+}
+#foot_r{
+    float: right;
+    width: auto;
+    height: 175px;
+}
+#foot_r>p{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+a{
+    text-decoration: none;
+}
